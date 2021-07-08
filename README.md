@@ -7,3 +7,5 @@
   3. Understanding the ideal turnaround/decision making time per age group to convert and retarget future social campaigns
   4. Comparing the individual campaign performance so the best creative/campaign can be run again with adjusted audiences.
 * Models used: Kmeans
+
+<img src="https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/cluster.png" width=500px height=400px/>
